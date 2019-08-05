@@ -10,4 +10,7 @@ I only applies positive test here no negative test.
 
 To test just go inside the folder "sales_taxes_app" and run "rspec spec/lib/sales_taxes_spec.rb"
 
+Time Spent 8 Hours
+With Breaks and dinner.
+
 Enjoy and feel fre to comment.
